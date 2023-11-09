@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a counter button component ","md5":"985cd2e7a17cc0894996ded26d816e6b"}]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a counter button component ","md5":"985cd2e7a17cc0894996ded26d816e6b"},{"prompt":"link the button to index page and make background yellow","md5":"6da38b0422803091f03a89c9e3f0a7aa"}]}
